@@ -37,7 +37,7 @@ public class DCI29W0503 {
         new Login().setVisible(true);
         
         System.out.println("Ni las llegas");
-        System.out.println("Calate");
+        System.out.println("Veda?");
         
         //Si ni la llegas
         //loging
