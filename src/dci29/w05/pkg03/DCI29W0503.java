@@ -41,6 +41,8 @@ public class DCI29W0503 {
         System.err.println("Faults");
         System.out.println("Wiu! Wiu! Wiu! Wiu! Wiu! ");
         
+        System.out.println("Claro Claro");
+        
         //Si ni la llegas
         //loging
         
