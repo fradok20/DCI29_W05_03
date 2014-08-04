@@ -33,13 +33,7 @@ public class DCI29W0503 {
     
     public static void main(String[] args) {
         
-        
-//        java.awt.EventQueue.invokeLater(new Runnable() {
-//            public void run() {asd
-//                new Login().setVisible(true);
-//            }
-//        });
-        
+              
         new Login().setVisible(true);
         
         System.out.println("Ni las llegas");
