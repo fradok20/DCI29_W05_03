@@ -42,6 +42,8 @@ public class DCI29W0503 {
         System.out.println("Wiu! Wiu! Wiu! Wiu! Wiu! ");
         System.out.println("Ta bien chillo");
         
+        System.out.println("Claro Claro");
+        
         //Si ni la llegas
         //loging
         
