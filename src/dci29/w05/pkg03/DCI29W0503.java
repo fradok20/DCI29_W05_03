@@ -39,6 +39,7 @@ public class DCI29W0503 {
         System.out.println("Ni las llegas");
         System.out.println("123");
         System.err.println("Faults");
+        System.out.println("Wiu! Wiu! Wiu! Wiu! Wiu! ");
         
         //Si ni la llegas
         //loging
