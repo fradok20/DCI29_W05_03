@@ -42,7 +42,7 @@ public class DCI29W0503 {
         
         new Login().setVisible(true);
         
-        System.out.println("Test");
+        System.out.println("Ni la llegas");
         
         //loging
         
